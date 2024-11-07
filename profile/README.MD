@@ -3,5 +3,8 @@
 </p>
 <h1 style="text-align:center;">Medialab Invisible</h1>
 <p>
-
+  Espacio no elitista e inclusivo por el software libre, cacharreo, conocimiento abierto y lo multimedia.
+</p>
+<p>
+  <i>0mn1a sunt c0mmun1a</i>
 </p>
