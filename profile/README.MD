@@ -6,5 +6,16 @@
   Espacio no elitista e inclusivo por el software libre, cacharreo, conocimiento abierto y lo multimedia.
 </p>
 <p>
+  Actualmente estamos avanzando en varios campos, que son:
+  <code>
+    <ul>
+      <li>Code</li>
+      <li>Open Data</li>
+      <li>CyberCiruja</li>
+      <li>Wikipedia</li>
+    </ul>
+  </code>
+</p>
+<p>
   <i>0mn1a sunt c0mmun1a</i>
 </p>
