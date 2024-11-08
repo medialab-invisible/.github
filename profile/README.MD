@@ -7,14 +7,12 @@
 </p>
 <p>
   Actualmente estamos avanzando en varios campos, que son:
-  <code>
-    <ul>
-      <li>Code</li>
-      <li>Open Data</li>
-      <li>CyberCiruja</li>
-      <li>Wikipedia</li>
-    </ul>
-  </code>
+  <ul>
+    <li>Code</li>
+    <li>Open Data</li>
+    <li>CyberCiruja</li>
+    <li>Wikipedia</li>
+  </ul>
 </p>
 <p>
   <i>0mn1a sunt c0mmun1a</i>
